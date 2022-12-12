@@ -1,9 +1,6 @@
 # DS110_Pokemon
 
-Objective: To train the machine learning algorithm to be able to identify any Generation 1 Pokemon from a given image and return its stats (and name) back to the user.
-
-Dataset of the original 151 Pokemon with stats only from Generation 1.
-https://www.kaggle.com/datasets/dizzypanda/gen-1-pokemon
+Objective: To train the machine learning algorithm to be able to identify any Generation 1 Pokemon from a given image.
 
 Dataset containing images of each Generation 1 Pokemon.
 https://www.kaggle.com/datasets/thedagger/pokemon-generation-one
